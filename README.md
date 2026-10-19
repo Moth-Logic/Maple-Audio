@@ -1,4 +1,12 @@
-# Maple Audio
+<p align="center">
+  <img src="images/Logo_Maple.png" alt="Maple Audio logo" width="500">
+</p>
+
+<h1 align="center">Maple Audio</h1>
+
+<p align="center">
+  <em>Record it. Transcribe it. Keep it local.</em>
+</p>
 
 A lightweight Windows desktop tool that records whatever your computer is playing (lectures, meetings, videos) and transcribes it locally, with timestamps. Everything runs on your PC: no cloud, no accounts, no API keys.
 
